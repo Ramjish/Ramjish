@@ -1,8 +1,8 @@
 <div align="center">
 
-  <!-- HERO BANNER -->
+  <!-- HERO BANNER (DEVOPS INFINITY LOOP LOGO) -->
   <a href="https://github.com/Ramjish">
-    <img src="./assets/hero-banner.svg" alt="Ramji Sharma - Senior Cloud, DevSecOps & GenAI Consultant" width="100%" />
+    <img src="./assets/devops-hero-banner.jpg" alt="Ramji Sharma - DevOps, DevSecOps, Cloud Engineer" width="100%" />
   </a>
 
   <br/><br/>
